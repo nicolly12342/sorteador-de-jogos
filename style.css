@@ -1,0 +1,16 @@
+.jogo{
+    background-color: pink;
+}
+
+#tabela{
+    background-color: rgb(235, 118, 180);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+     background-color: rgb(245, 207, 235);
+     color: indianred
+}
